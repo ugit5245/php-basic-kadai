@@ -7,6 +7,7 @@
 <body>
 <p>
 
+
 <?php
 
 class Food {
@@ -47,6 +48,7 @@ $food->show_price();
 $animal->show_height();
 
 ?>
+
 
 </p>
 </body>
